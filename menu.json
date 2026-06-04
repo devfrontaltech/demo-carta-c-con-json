@@ -1,0 +1,149 @@
+{
+  "restaurante": {
+    "nombre": "MAREA",
+    "subtitulo": "Barcelona · Cocina Mediterránea",
+    "descripcion": "Producto fresco, recetas contemporáneas y sabores del Mediterráneo reinterpretados para una experiencia gastronómica moderna.",
+    "hero_imagen": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=2000&q=80",
+    "direccion": "Passeig Marítim 128 · Barcelona",
+    "telefono": "+34 931 000 000",
+    "email": "hola@marearestaurante.com"
+  },
+  "secciones": [
+    {
+      "id": "entrantes",
+      "titulo": "Entrantes",
+      "platos": [
+        {
+          "nombre": "Tartar de Tomate Rosa",
+          "precio": "9€",
+          "descripcion": "Tomate de temporada, albahaca fresca, aceite de arbequina y queso curado.",
+          "imagen": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80",
+          "tags": ["Vegetariano"]
+        },
+        {
+          "nombre": "Burrata Mediterránea",
+          "precio": "14€",
+          "descripcion": "Burrata cremosa, higos frescos, pistacho tostado y miel de romero.",
+          "imagen": "https://images.unsplash.com/photo-1559847844-5315695dadae?w=1200&q=80",
+          "tags": ["Chef's Choice"]
+        },
+        {
+          "nombre": "Croquetas de Jamón Ibérico",
+          "precio": "11€",
+          "descripcion": "Croquetas melosas elaboradas diariamente con jamón ibérico de bellota.",
+          "imagen": "images/croquetas.jpg",
+          "tags": ["Popular"]
+        },
+        {
+          "nombre": "Pulpo Braseado",
+          "precio": "18€",
+          "descripcion": "Pulpo a baja temperatura con parmentier ahumada y pimentón.",
+          "imagen": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?w=1200&q=80",
+          "tags": ["Premium"]
+        }
+      ]
+    },
+    {
+      "id": "principales",
+      "titulo": "Principales",
+      "platos": [
+        {
+          "nombre": "Arroz del Mediterráneo",
+          "precio": "24€",
+          "descripcion": "Gambas, sepia, mejillones y caldo concentrado elaborado durante 18 horas.",
+          "imagen": "https://images.unsplash.com/photo-1515443961218-a51367888e4b?w=1200&q=80",
+          "tags": ["Especialidad"]
+        },
+        {
+          "nombre": "Lomo de Vaca Madurada",
+          "precio": "29€",
+          "descripcion": "300 gramos de vaca madurada, verduras asadas y salsa de vino tinto.",
+          "imagen": "https://images.unsplash.com/photo-1544025162-d76694265947?w=1200&q=80",
+          "tags": ["Premium"]
+        },
+        {
+          "nombre": "Salmón Glaseado",
+          "precio": "23€",
+          "descripcion": "Salmón al horno con glaseado cítrico y verduras de temporada.",
+          "imagen": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=1200&q=80",
+          "tags": ["Sin Gluten"]
+        },
+        {
+          "nombre": "Risotto de Setas",
+          "precio": "19€",
+          "descripcion": "Arroz cremoso con setas silvestres, parmesano y aceite de trufa.",
+          "imagen": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=1200&q=80",
+          "tags": ["Vegetariano"]
+        },
+        {
+          "nombre": "Hamburguesa Gourmet",
+          "precio": "17€",
+          "descripcion": "Carne premium, cheddar curado, cebolla caramelizada y pan brioche.",
+          "imagen": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=1200&q=80",
+          "tags": ["Best Seller"]
+        },
+        {
+          "nombre": "Tagliatelle Trufados",
+          "precio": "18€",
+          "descripcion": "Pasta fresca artesanal con crema ligera de trufa negra.",
+          "imagen": "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=1200&q=80",
+          "tags": ["Vegetariano"]
+        }
+      ]
+    },
+    {
+      "id": "postres",
+      "titulo": "Postres",
+      "platos": [
+        {
+          "nombre": "Coulant de Chocolate",
+          "precio": "8€",
+          "descripcion": "Bizcocho caliente con interior fundente y helado de vainilla.",
+          "imagen": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=1200&q=80",
+          "tags": []
+        },
+        {
+          "nombre": "Crema Catalana",
+          "precio": "7€",
+          "descripcion": "Receta tradicional caramelizada al momento.",
+          "imagen": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=1200&q=80",
+          "tags": []
+        },
+        {
+          "nombre": "Tiramisú Artesano",
+          "precio": "8€",
+          "descripcion": "Mascarpone, café espresso y cacao puro.",
+          "imagen": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=1200&q=80",
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": "bebidas",
+      "titulo": "Bebidas",
+      "platos": [
+        {
+          "nombre": "Vino Blanco Albariño",
+          "precio": "22€",
+          "descripcion": "Fresco, afrutado y perfecto para pescados y mariscos.",
+          "imagen": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=1200&q=80",
+          "tags": []
+        },
+        {
+          "nombre": "Cóctel Signature",
+          "precio": "11€",
+          "descripcion": "Ginebra premium, cítricos y romero fresco.",
+          "imagen": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&q=80",
+          "tags": []
+        },
+        {
+          "nombre": "Limonada Artesana",
+          "precio": "5€",
+          "descripcion": "Limón natural, hierbabuena fresca y azúcar de caña.",
+          "imagen": "images/limonada.jpg",
+          "tags": []
+        }
+      ]
+    }
+  ]
+}
